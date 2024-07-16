@@ -1,0 +1,14 @@
+
+    {
+        "autoBarrel.language.defaultLanguage": "JavaScript",
+        "autoBarrel.files.disableRecursiveBarrelling": false,
+        "autoBarrel.files.includeExtensionOnExport": ["js", "jsx"],
+        "autoBarrel.files.ignoreFilePathPatternOnExport": ["**/*.spec.*", "**/*.test.*"],
+        "autoBarrel.files.keepExtensionOnExport": false,
+        "autoBarrel.files.detectExportsInFiles": false,
+        "autoBarrel.files.exportDefaultFilename": "filename",
+        "autoBarrel.formatting.excludeSemiColonAtEndOfLine": true,
+        "autoBarrel.formatting.useSingleQuotes": true,
+        "autoBarrel.formatting.endOfLine": "crlf",
+        "autoBarrel.formatting.insertFinalNewline": false,
+      }      

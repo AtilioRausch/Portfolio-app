@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "titulo": "Desarrollo 1",
+        "description": "Descripción del desarrollo 1",
+        "titulo_corto": "Dev 1"
+    },
+    {
+        "id": 2,
+        "titulo": "Desarrollo 2",
+        "description": "Descripción del desarrollo 2",
+        "titulo_corto": "Dev 2"
+    },
+    {
+        "id": 3,
+        "titulo": "Desarrollo 3",
+        "description": "Descripción del desarrollo 3",
+        "titulo_corto": "Dev 3"
+    }
+]
